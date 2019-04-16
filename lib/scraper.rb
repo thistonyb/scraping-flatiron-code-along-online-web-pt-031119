@@ -13,7 +13,7 @@ class Scraper
     binding.pry
   end
 
-  
+
 
   def print_courses
     self.make_courses
